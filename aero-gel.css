@@ -103,27 +103,27 @@
 /* Button color */
 /* Blue */
 .aero-gel-button-blue{
-    background-color: var(--ox-color-ant-blue-8);
+    background-color: #0050b3; /* ant-blue-8 */
     color: #ffffff;
 }
 .aero-gel-button-blue:hover{
-    background-color: var(--ox-color-ant-blue-7);
+    background-color: #096dd9; /* ant-blue-7 */
 }
 /* Red */
 .aero-gel-button-red{
-    background-color: var(--ox-color-ant-red-8);
+    background-color: #a8071a; /* ant-red-8 */
     color: #ffffff;
 }
 .aero-gel-button-red:hover{
-    background-color: var(--ox-color-ant-red-7);
+    background-color: #cf1322; /* ant-red-7 */
 }
 /* Orange */
 .aero-gel-button-orange{
-    background-color: var(--ox-color-md-orange-600);
+    background-color: #FB8C00; /* md-orange-600 */
     color: #212121;
 }
 .aero-gel-button-orange:hover{
-    background-color: var(--ox-color-md-orange-400);
+    background-color: #FFA726; /* md-orange-400 */
 }
 
 /* Button size */
